@@ -71,8 +71,7 @@ Delivering high-quality solutions that solve real problems, continuously learnin
 
 ## 📌 Let's Connect  
 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jimuel.a.palalimpa@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jimuel-palalimpa-690073317/)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jimuel.a.palalimpa@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jimuel-palalimpa-690073317/)  
 <!-- COMMENT THIS WILL UPDATE SOON -->
 <!--
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=About.me&logoColor=white)](YOUR_PORTFOLIO_URL)  

@@ -78,4 +78,4 @@ Delivering high-quality solutions that solve real problems, continuously learnin
 -->
 ---
 
-⭐ *Feel free to explore my repositories — I’m continuously adding new projects and improving my codebase.*
+⭐ *Feel free to explore my repositories — I’m continuously adding new projects and improving my skillset.*

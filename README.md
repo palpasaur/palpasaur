@@ -9,8 +9,6 @@
 I’m a passionate Laravel Developer skilled in **PHP**, **Laravel Framework**, **Tailwind CSS**, **Bootstrap**, and **JavaScript**.  
 I enjoy building efficient, user-friendly web applications and have hands-on experience developing real-time API integrations, Docker deployments, and full-stack systems.
 
-💡 **What drives me?**  
-Delivering high-quality solutions that solve real problems, continuously learning new skills, and collaborating within dynamic development teams.
 
 ---
 
